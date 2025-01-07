@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-first command
-=======
-this is remote command
->>>>>>> 50d9c948ec566993d004a867b1b142877ab3fc38
